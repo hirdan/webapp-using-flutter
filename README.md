@@ -5,3 +5,4 @@
 "# calculator" 
 "# calender" 
 "# library-management-system" 
+"# stone-paper-scissors" 
